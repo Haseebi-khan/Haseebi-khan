@@ -22,41 +22,58 @@
     My love for technology drives me to continually enhance my skills through exciting projects, coding challenges, and real-world problem-solving.
 </p>
 
-<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📚 Skills & Expertise</h2>
-<table align="center" style="width: 100%; border-collapse: collapse; font-size: 1.2em; animation: fadeIn 2s;">
-    <thead>
-        <tr style="background-color: #FFFFFF;">
-            <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd; color: #008080;">💻 Skill</th>
-            <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd; color: #008080;">🔥 Proficiency Level</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Programming Languages</td>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
-        </tr>
-        <tr>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Object-Oriented Programming (OOP)</td>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
-        </tr>
-        <tr>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Data Structures</td>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
-        </tr>
-        <tr>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Algorithms</td>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟</td>
-        </tr>
-        <tr>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Problem Solving (PF)</td>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
-        </tr>
-        <tr>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Software Development</td>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟</td>
-        </tr>
-    </tbody>
-</table>
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 20px;">
+        <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📚 Skills & Expertise</h2>
+        <table align="left" style="width: 100%; border-collapse: collapse; font-size: 1.2em; animation: fadeIn 2s;">
+            <thead>
+                <tr style="background-color: #FFFFFF;">
+                    <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd; color: #008080;">💻 Skill</th>
+                    <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd; color: #008080;">🔥 Proficiency Level</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Programming Languages</td>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Object-Oriented Programming (OOP)</td>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Data Structures</td>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Algorithms</td>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟</td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Problem Solving (PF)</td>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
+                </tr>
+                <tr>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Software Development</td>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div style="flex: 1;">
+        <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">💡 Featured Project</h2>
+        <p style="font-size: 1.2em; animation: fadeIn 2s; color: #008080;">
+            I developed a web application that helps users track their daily tasks and set reminders. 
+            It utilizes modern web technologies like React and Node.js, and has been a great learning experience for me!
+        </p>
+
+        <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🗨️ Quote</h2>
+        <blockquote style="font-size: 1.2em; color: #008080;">
+            "The only way to do great work is to love what you do." - Steve Jobs
+        </blockquote>
+    </div>
+</div>
 
 <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🌐 Extracurricular Activities</h2>
 <ul style="font-size: 1.2em; animation: fadeIn 2s; list-style-type: none; color: #008080;">
