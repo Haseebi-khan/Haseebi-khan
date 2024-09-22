@@ -31,9 +31,17 @@
             <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd; color: #008080;">🔥 Proficiency Level</th>
         </tr>
     </thead>
-    <tbody>
+     <tbody>
         <tr>
             <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Programming Languages</td>
+            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
+        </tr>
+        <tr>
+            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Object-Oriented Programming (OOP)</td>
+            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
+        </tr>
+        <tr>
+            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Data Structures</td>
             <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
         </tr>
         <tr>
@@ -41,20 +49,12 @@
             <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟</td>
         </tr>
         <tr>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Data Structures</td>
+            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Problem Solving (PF)</td>
             <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
         </tr>
         <tr>
             <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Software Development</td>
             <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟</td>
-        </tr>
-        <tr>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Object-Oriented Programming (OOP)</td>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
-        </tr>
-        <tr>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Problem Solving (PF)</td>
-            <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
         </tr>
     </tbody>
 </table>
