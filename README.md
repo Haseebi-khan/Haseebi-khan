@@ -1,6 +1,6 @@
 <h1 align="left" style="font-size: 3.5em; color: #FF6F61; animation: fadeIn 2s;">🌟 Haseeb Khan</h1>
 
-<p align="center">
+<p align="left">
     <a href="https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile" target="_blank">
         <img src="https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow Badge">
     </a>
