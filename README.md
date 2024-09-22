@@ -25,7 +25,7 @@
 <div style="display: flex; justify-content: space-between; margin-top: 40px;">
     <div style="flex: 1; margin-right: 20px;">
         <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📚 Skills & Expertise</h2>
-        <table align="left" style="width: 100%; border-collapse: collapse; font-size: 1.2em; animation: fadeIn 2s;">
+        <table align="center" style="width: 100%; border-collapse: collapse; font-size: 1.2em; animation: fadeIn 2s;">
             <thead>
                 <tr style="background-color: #FFFFFF;">
                     <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd; color: #008080;">💻 Skill</th>
@@ -56,14 +56,15 @@
             </tbody>
         </table>
     </div>
-    <div style="flex: 1;">
-        <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📂 Projects</h2>
-        <h3 style="font-size: 2em; color: #008080;">Contact Book Management System</h3>
-        <p style="animation: fadeIn 2s;">Developed a robust application using C++ that allows users to manage contact information. Key libraries used include: <strong>window.h</strong>, <strong>iomanip</strong>, <strong>fstream</strong>.</p>
-        
-        <h3 style="font-size: 2em; color: #008080;">Hotel Management System</h3>
-        <p style="animation: fadeIn 2s;">Created a comprehensive system for hotel bookings, featuring: <strong>termios.h</strong>, <strong>unistd.h</strong>, <strong>stdio.h</strong>, <strong>fstream</strong>, <strong>iomanip</strong>, <strong>ctime</strong>, and <strong>cstdlib</strong>.</p>
-    </div>
+</div>
+<div style="flex: 1;">
+    <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📂 Projects</h2>
+    <h3 style="font-size: 2em; color: #008080;">Contact Book Management System</h3>
+    <p style="animation: fadeIn 2s;">Developed a robust application using C++ that allows users to manage contact information. Key libraries used include: <strong>window.h</strong>, <strong>iomanip</strong>, <strong>fstream</strong>.</p>
+</div>
+    <div>
+    <h3 style="font-size: 2em; color: #008080;">Hotel Management System</h3>
+    <p style="animation: fadeIn 2s;">Created a comprehensive system for hotel bookings, featuring: <strong>termios.h</strong>, <strong>unistd.h</strong>, <strong>stdio.h</strong>, <strong>fstream</strong>, <strong>iomanip</strong>, <strong>ctime</strong>, and <strong>cstdlib</strong>.</p>
 </div>
 
 <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s; margin-top: 40px;">🛠️ Tech Stack</h2>
@@ -133,10 +134,3 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb90302348&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-<style>
-    @keyframes fadeIn { 
-        from { opacity: 0; } 
-        to { opacity: 1; } 
-    }
-</style>
