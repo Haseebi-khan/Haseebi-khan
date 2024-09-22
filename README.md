@@ -3,9 +3,12 @@
 <p align="center">
     <img src="https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow Badge">
     <img src="https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp" alt="FreeCodeCamp Badge">
-    <img href="https://www.instagram.com/haseebe_khan" src="https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram" alt="Instagram Badge">
+    <a href="https://www.instagram.com/haseebe_khan" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram" alt="Instagram Badge">
+    </a>
     <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress" alt="WordPress Badge">
 </p>
+
 
 <h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s;">👨‍🎓 About Me</h2>
 <p style="font-size: 1.2em; animation: fadeIn 2s;">
