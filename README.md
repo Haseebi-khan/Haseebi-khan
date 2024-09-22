@@ -15,7 +15,6 @@
     </a>
 </p>
 
-
 <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">👨‍🎓 About Me</h2>
 <p style="font-size: 1.2em; animation: fadeIn 2s; color: #008080;">
     Hello! I am a passionate Computer Science student currently pursuing my degree at the 
@@ -31,7 +30,7 @@
             <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd; color: #008080;">🔥 Proficiency Level</th>
         </tr>
     </thead>
-     <tbody>
+    <tbody>
         <tr>
             <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Programming Languages</td>
             <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
@@ -77,7 +76,7 @@
     <a href="https://www.linkedin.com/in/haseebkhan" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/haseebkhan" style="text-decoration: none;">
+    <a href="https://www.instagram.com/haseebe_khan" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://twitter.com/haseebkhan" style="text-decoration: none;">
@@ -89,10 +88,10 @@
     <a href="https://www.freecodecamp.org/Haseeb__Khan" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp">
     </a>
-    <a href="https://stackoverflow.com/users/your-id/haseebkhan" style="text-decoration: none;">
+    <a href="https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
     </a>
-    <a href="mailto:haseeb@example.com" style="text-decoration: none;">
+    <a href="mailto:haseebkhanbettani@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://haseebkhan.wordpress.com" style="text-decoration: none;">
