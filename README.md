@@ -25,7 +25,7 @@
 <div style="display: flex; justify-content: space-between; margin-top: 40px;">
     <div style="flex: 1; margin-right: 20px;">
         <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📚 Skills & Expertise</h2>
-        <table align="left" style="width: 100%; border-collapse: collapse; font-size: 1.2em; animation: fadeIn 2s;">
+        <table align="center" style="width: 100%; border-collapse: collapse; font-size: 1.2em; animation: fadeIn 2s;">
             <thead>
                 <tr style="background-color: #FFFFFF;">
                     <th style="padding: 12px; text-align: left; border-bottom: 2px solid #ddd; color: #008080;">💻 Skill</th>
