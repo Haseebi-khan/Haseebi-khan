@@ -69,7 +69,6 @@
         </blockquote>
     </div>
 </div>
-
 <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🛠️ Tech Stack</h2>
 <p align="left">
     <a href="#" target="_blank">
@@ -105,7 +104,11 @@
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js" alt="Node.js Badge">
     </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python Badge">
+    </a>
 </p>
+
 
 
 
