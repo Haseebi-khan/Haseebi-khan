@@ -5,8 +5,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram)](https://www.instagram.com/haseebe_khan)
 [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://wordpress.com/home/haseebullahkhan6.wordpress.com)
 
-![UMT Logo](https://seeklogo.com/vector-logo/349796/university-of-management-and-technology)
-
 ## 👨‍🎓 About Me
 Hello! I am a passionate Computer Science student at the [University of Management and Technology (UMT)](https://www.umt.edu.pk). I love enhancing my skills through exciting projects and real-world problem-solving.
 
