@@ -91,11 +91,11 @@
 
 <h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s;">📊 Statistics & Progress</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=HaseebKhan&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 20px;"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HaseebKhan&theme=radical" alt="GitHub Streak" style="margin: 20px;"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Haseeb90302348&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 20px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeb90302348&theme=radical" alt="GitHub Streak" style="margin: 20px;"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebKhan&layout=compact&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb90302348&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 <h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s;">🎓 FreeCodeCamp Stats</h2>
