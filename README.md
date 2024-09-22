@@ -62,6 +62,15 @@
     </a>
 </p>
 
+<h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s;">📊 Statistics & Progress</h2>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=haseebkhan&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 20px;"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haseebkhan&theme=radical" alt="GitHub Streak" style="margin: 20px;"/>
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebkhan&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
 <style>
     @keyframes fadeIn {
         from { opacity: 0; }
