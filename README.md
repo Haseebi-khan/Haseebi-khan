@@ -1,4 +1,4 @@
-<h1 align="left" style="font-size: 3.5em; color: #FF6F61; animation: fadeIn 2s;">🌟 Haseeb Khan</h1>
+<h1 align="left" style="font-size: 3.5em; color: #FF6F61; animation: fadeIn 2s; margin-bottom: 20px;">🌟 Haseeb Khan</h1>
 
 <p align="left">
     <a href="https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile" target="_blank">
@@ -15,14 +15,14 @@
     </a>
 </p>
 
-<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">👨‍🎓 About Me</h2>
+<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s; margin-top: 40px;">👨‍🎓 About Me</h2>
 <p style="font-size: 1.2em; animation: fadeIn 2s; color: #008080;">
     Hello! I am a passionate Computer Science student at the 
     <a href="https://www.umt.edu.pk" style="color: #FF6F61; text-decoration: underline;">University of Management and Technology (UMT)</a>. 
     I love enhancing my skills through exciting projects and real-world problem-solving.
 </p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; margin-top: 40px;">
     <div style="flex: 1; margin-right: 20px;">
         <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📚 Skills & Expertise</h2>
         <table align="left" style="width: 100%; border-collapse: collapse; font-size: 1.2em; animation: fadeIn 2s;">
@@ -58,15 +58,15 @@
     </div>
     <div style="flex: 1;">
         <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📂 Projects</h2>
-        <h3>Contact Book Management System</h3>
+        <h3 style="font-size: 2em; color: #008080;">Contact Book Management System</h3>
         <p style="animation: fadeIn 2s;">Developed a robust application using C++ that allows users to manage contact information. Key libraries used include: <strong>window.h</strong>, <strong>iomanip</strong>, <strong>fstream</strong>.</p>
         
-<h3 style="font-size: 2em; color: #008080;">Hotel Management System</h3>
+        <h3 style="font-size: 2em; color: #008080;">Hotel Management System</h3>
         <p style="animation: fadeIn 2s;">Created a comprehensive system for hotel bookings, featuring: <strong>termios.h</strong>, <strong>unistd.h</strong>, <strong>stdio.h</strong>, <strong>fstream</strong>, <strong>iomanip</strong>, <strong>ctime</strong>, and <strong>cstdlib</strong>.</p>
     </div>
 </div>
 
-<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🛠️ Tech Stack</h2>
+<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s; margin-top: 40px;">🛠️ Tech Stack</h2>
 <p align="left">
     <a href="#" target="_blank">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus" alt="C++ Badge">
@@ -100,19 +100,19 @@
     </a>
 </p>
 
-<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🌐 Extracurricular Activities</h2>
+<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s; margin-top: 40px;">🌐 Extracurricular Activities</h2>
 <ul style="font-size: 1.2em; animation: fadeIn 2s; list-style-type: none; color: #008080;">
     <li>🎯 <strong>Coding Competitions:</strong> Participated in numerous hackathons and coding events.</li>
     <li>🛠️ <strong>Tech Workshops:</strong> Led workshops on emerging technologies.</li>
     <li>🤝 <strong>Community Projects:</strong> Contributed to local projects for social good.</li>
 </ul>
 
-<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🚀 Vision</h2>
+<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s; margin-top: 40px;">🚀 Vision</h2>
 <p style="font-size: 1.2em; animation: fadeIn 2s; color: #008080;">
     My vision is to harness technology to foster innovation and create a positive impact in society.
 </p>
 
-<h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s;">📫 Get in Touch</h2>
+<h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s; margin-top: 40px;">📫 Get in Touch</h2>
 <p style="font-size: 1.2em; animation: fadeIn 2s;">
     <a href="https://www.linkedin.com/in/haseebkhan" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -125,7 +125,7 @@
     </a>
 </p>
 
-<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📊 Statistics & Progress</h2>
+<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s; margin-top: 40px;">📊 Statistics & Progress</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Haseeb90302348&show_icons=true&theme=radical" alt="GitHub Stats" style="margin: 20px;"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeb90302348&theme=radical" alt="GitHub Streak" style="margin: 20px;"/>
