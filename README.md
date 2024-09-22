@@ -122,7 +122,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseeb90302348&theme=radical" alt="GitHub Streak" style="margin: 20px;"/>
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb90302348&layout=compact&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb90302348&layout=compact&theme=radical&langs_count=10&hide=Assembly&custom_title=Top%20Languages%20%F0%9F%92%BB&bg_color=ffffff&title_color=008080&text_color=333333&icon_color=FF6F61" alt="Top Languages"/>
 </p>
 
 <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🎓 FreeCodeCamp Stats</h2>
