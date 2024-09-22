@@ -1,3 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haseeb Khan Portfolio</title>
+    <style>
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+        @keyframes slideIn {
+            from { transform: translateY(-20px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+
 <h1 align="left" style="font-size: 3.5em; color: #FF6F61; animation: fadeIn 2s;">🌟 Haseeb Khan</h1>
 
 <p align="center">
@@ -102,12 +126,6 @@
     <a href="https://www.reddit.com/user/haseebkhan" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
     </a>
-    <a href="https://www.freecodecamp.org/Haseeb__Khan" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp">
-    </a>
-    <a href="https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
-    </a>
     <a href="mailto:haseebkhanbettani@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
@@ -130,13 +148,5 @@
     <img src="https://api.freecodecamp.org/user/Haseeb__Khan" alt="FreeCodeCamp Stats" style="margin: 20px;"/>
 </p>
 
-<style>
-    @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-    }
-    @keyframes slideIn {
-        from { transform: translateY(-20px); opacity: 0; }
-        to { transform: translateY(0); opacity: 1; }
-    }
-</style>
+</body>
+</html>
