@@ -2,18 +2,19 @@
 
 <p align="center">
     <a href="https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile" target="_blank">
-        <img src="https://img.shields.io/badge/Stack_Overflow-FF6F61?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow Badge">
+        <img src="https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow Badge">
     </a>
     <a href="https://www.freecodecamp.org/Haseeb__Khan" target="_blank">
-        <img src="https://img.shields.io/badge/FreeCodeCamp-FF6F61?style=for-the-badge&logo=freecodecamp" alt="FreeCodeCamp Badge">
+        <img src="https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp" alt="FreeCodeCamp Badge">
     </a>
     <a href="https://www.instagram.com/haseebe_khan" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-FF6F61?style=for-the-badge&logo=instagram" alt="Instagram Badge">
+        <img src="https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram" alt="Instagram Badge">
     </a>
     <a href="https://wordpress.com/home/haseebullahkhan6.wordpress.com" target="_blank">
-        <img src="https://img.shields.io/badge/WordPress-FF6F61?style=for-the-badge&logo=wordpress" alt="WordPress Badge">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress" alt="WordPress Badge">
     </a>
 </p>
+
 
 <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">👨‍🎓 About Me</h2>
 <p style="font-size: 1.2em; animation: fadeIn 2s; color: #008080;">
