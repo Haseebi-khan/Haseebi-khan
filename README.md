@@ -42,12 +42,8 @@
                     <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
                 </tr>
                 <tr>
-                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Data Structures</td>
+                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Data Structures and Algorithms (DSA)</td>
                     <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟🌟</td>
-                </tr>
-                <tr>
-                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Algorithms</td>
-                    <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">🌟🌟🌟🌟</td>
                 </tr>
                 <tr>
                     <td style="padding: 12px; border-bottom: 1px solid #ddd; color: #008080;">Problem Solving (PF)</td>
@@ -59,8 +55,13 @@
                 </tr>
             </tbody>
         </table>
-    </div>
 
+        <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🛠️ Tech Stack</h2>
+        <p style="font-size: 1.2em; animation: fadeIn 2s; color: #008080;">
+            C++, Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), HTML, CSS, JavaScript, Bootstrap, MongoDB, Express.js, React, Node.js.
+        </p>
+    </div>
+    
     <div style="flex: 1;">
         <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">💡 Featured Project</h2>
         <p style="font-size: 1.2em; animation: fadeIn 2s; color: #008080;">
@@ -74,6 +75,7 @@
         </blockquote>
     </div>
 </div>
+
 
 <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🌐 Extracurricular Activities</h2>
 <ul style="font-size: 1.2em; animation: fadeIn 2s; list-style-type: none; color: #008080;">
