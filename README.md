@@ -55,12 +55,6 @@
                 </tr>
             </tbody>
         </table>
-
-        <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🛠️ Tech Stack</h2>
-        <p style="font-size: 1.2em; animation: fadeIn 2s; color: #008080;">
-            C++, Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), HTML, CSS, JavaScript, Bootstrap, MongoDB, Express.js, React, Node.js.
-        </p>
-    </div>
     
     <div style="flex: 1;">
         <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">💡 Featured Project</h2>
@@ -75,6 +69,44 @@
         </blockquote>
     </div>
 </div>
+
+<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🛠️ Tech Stack</h2>
+<p align="left">
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus" alt="C++ Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Object--Oriented_Programming-007396?style=for-the-badge&logo=java" alt="OOP Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Data_Structures_and_Algorithms-5C6BC0?style=for-the-badge&logo=python" alt="DSA Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5" alt="HTML Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" alt="CSS Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="Bootstrap Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express" alt="Express.js Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" alt="React Badge">
+    </a>
+    <a href="#" target="_blank">
+        <img src="https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=node.js" alt="Node.js Badge">
+    </a>
+</p>
+
 
 
 <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🌐 Extracurricular Activities</h2>
