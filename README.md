@@ -1,4 +1,4 @@
-#🌟 Haseeb Khan
+# Haseeb Khan
 
 👨‍🎓 About Me
 I am a dedicated Computer Science student currently pursuing my degree at the University of Management and Technology (UMT). With a strong passion for technology, I actively engage in coursework and projects that expand my knowledge and skills in computer science.
