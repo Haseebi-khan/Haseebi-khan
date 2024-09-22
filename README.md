@@ -61,7 +61,7 @@
         <h3>Contact Book Management System</h3>
         <p style="animation: fadeIn 2s;">Developed a robust application using C++ that allows users to manage contact information. Key libraries used include: <strong>window.h</strong>, <strong>iomanip</strong>, <strong>fstream</strong>.</p>
         
-        <h3>Hotel Management System</h3>
+<h3 style="font-size: 2em; color: #008080;">Hotel Management System</h3>
         <p style="animation: fadeIn 2s;">Created a comprehensive system for hotel bookings, featuring: <strong>termios.h</strong>, <strong>unistd.h</strong>, <strong>stdio.h</strong>, <strong>fstream</strong>, <strong>iomanip</strong>, <strong>ctime</strong>, and <strong>cstdlib</strong>.</p>
     </div>
 </div>
