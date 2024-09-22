@@ -1,8 +1,10 @@
 <h1 align="center" style="font-size: 3.5em; color: #4CAF50; animation: fadeIn 2s;">🌟 Haseeb Khan</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Computer_Science_Student-UMT-orange?style=for-the-badge&logo=graduation-cap" alt="Student Badge">
-    <img src="https://img.shields.io/badge/Tech%20Enthusiast-007ACC?style=for-the-badge&logo=rocket" alt="Tech Enthusiast Badge">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow" alt="Stack Overflow Badge">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp" alt="FreeCodeCamp Badge">
+    <img src="https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram" alt="Instagram Badge">
+    <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress" alt="WordPress Badge">
 </p>
 
 <h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s;">👨‍🎓 About Me</h2>
