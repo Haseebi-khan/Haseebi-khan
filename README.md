@@ -124,19 +124,3 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb90302348&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
-
-<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">🎓 FreeCodeCamp Stats</h2>
-<p align="center">
-    <img src="https://api.freecodecamp.org/user/Haseeb__Khan" alt="FreeCodeCamp Stats" style="margin: 20px;"/>
-</p>
-
-<style>
-    @keyframes fadeIn {
-        from { opacity: 0; }
-        to { opacity: 1; }
-    }
-    @keyframes slideIn {
-        from { transform: translateY(-20px); opacity: 0; }
-        to { transform: translateY(0); opacity: 1; }
-    }
-</style>
