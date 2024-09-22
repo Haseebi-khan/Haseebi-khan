@@ -1,4 +1,4 @@
-<h1 align="center" style="font-size: 3.5em; color: #FF6F61; animation: fadeIn 2s;">🌟 Haseeb Khan</h1>
+<h1 align="left" style="font-size: 3.5em; color: #FF6F61; animation: fadeIn 2s;">🌟 Haseeb Khan</h1>
 
 <p align="center">
     <a href="https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile" target="_blank">
