@@ -72,31 +72,31 @@
     My vision is to harness the power of technology to foster innovation and create a positive impact in society. I aim to continuously evolve, learn, and apply my skills in solving real-world challenges.
 </p>
 
-<h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📫 Get in Touch</h2>
+<h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s;">📫 Get in Touch</h2>
 <p style="font-size: 1.2em; animation: fadeIn 2s;">
     <a href="https://www.linkedin.com/in/haseebkhan" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/LinkedIn-FF6F61?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://www.instagram.com/haseebkhan" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Instagram-FF6F61?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
     <a href="https://twitter.com/haseebkhan" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Twitter-FF6F61?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="https://www.reddit.com/user/haseebkhan" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Reddit-FF6F61?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
     </a>
     <a href="https://www.freecodecamp.org/Haseeb__Khan" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/FreeCodeCamp-FF6F61?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp">
+        <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp">
     </a>
-    <a href="https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Stack_Overflow-FF6F61?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge">
+    <a href="https://stackoverflow.com/users/your-id/haseebkhan" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
     </a>
-    <a href="mailto:haseebkhanbettani@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <a href="mailto:haseeb@example.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://haseebkhan.wordpress.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/WordPress-FF6F61?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
     </a>
 </p>
 
