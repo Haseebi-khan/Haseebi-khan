@@ -92,14 +92,13 @@
     <a href="https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Stack_Overflow-FF6F61?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow Badge">
     </a>
-    <a href="mailto:haseeb@example.com" style="text-decoration: none;">
+    <a href="mailto:haseebkhanbettani@gmail.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-FF6F61?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
     <a href="https://haseebkhan.wordpress.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/WordPress-FF6F61?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
     </a>
 </p>
-
 
 <h2 style="font-size: 2.5em; color: #008080; animation: slideIn 2s;">📊 Statistics & Progress</h2>
 <p align="center">
