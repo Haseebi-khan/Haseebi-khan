@@ -37,6 +37,14 @@
             <td style="padding: 12px; border-bottom: 1px solid #ddd;">Software Development</td>
             <td style="padding: 12px; border-bottom: 1px solid #ddd;">🌟🌟🌟</td>
         </tr>
+        <tr>
+            <td style="padding: 12px; border-bottom: 1px solid #ddd;">Object-Oriented Programming (OOP)</td>
+            <td style="padding: 12px; border-bottom: 1px solid #ddd;">🌟🌟🌟🌟🌟</td>
+        </tr>
+        <tr>
+            <td style="padding: 12px; border-bottom: 1px solid #ddd;">Problem Solving (PF)</td>
+            <td style="padding: 12px; border-bottom: 1px solid #ddd;">🌟🌟🌟🌟🌟</td>
+        </tr>
     </tbody>
 </table>
 
@@ -45,6 +53,7 @@
     <li>🎯 <strong>Coding Competitions:</strong> Participated in numerous hackathons and coding events.</li>
     <li>🛠️ <strong>Tech Workshops:</strong> Led workshops to explore emerging technologies with peers.</li>
     <li>🤝 <strong>Community Projects:</strong> Contributed to local projects aimed at leveraging tech for social good.</li>
+    <li>💻 <strong>FreeCodeCamp Profile:</strong> Check out my progress on <a href="https://www.freecodecamp.org/Haseeb__Khan" style="color: #FF5722; text-decoration: underline;">FreeCodeCamp</a>.</li>
 </ul>
 
 <h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s;">🚀 Vision</h2>
@@ -57,8 +66,26 @@
     <a href="https://www.linkedin.com/in/haseebkhan" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
+    <a href="https://www.instagram.com/haseebkhan" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+    <a href="https://twitter.com/haseebkhan" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://www.reddit.com/user/haseebkhan" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit">
+    </a>
+    <a href="https://www.freecodecamp.org/Haseeb__Khan" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp">
+    </a>
+    <a href="https://stackoverflow.com/users/your-id/haseebkhan" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
+    </a>
     <a href="mailto:haseeb@example.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://haseebkhan.wordpress.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
     </a>
 </p>
 
@@ -69,6 +96,11 @@
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebkhan&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+<h2 style="font-size: 2.5em; color: #2196F3; animation: slideIn 2s;">🎓 FreeCodeCamp Stats</h2>
+<p align="center">
+    <img src="https://api.freecodecamp.org/user/Haseeb__Khan" alt="FreeCodeCamp Stats" style="margin: 20px;"/>
 </p>
 
 <style>
