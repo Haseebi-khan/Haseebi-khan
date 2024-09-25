@@ -38,9 +38,9 @@ Created a comprehensive system for hotel bookings, featuring: **termios.h**, **u
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ## 📊 Statistics & Progress
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseeb90302348&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haseeb90302348&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseeb90302348&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haseebi-khan&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haseebkhan)
