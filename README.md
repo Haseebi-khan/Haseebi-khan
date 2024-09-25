@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&random=false&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Haseeb+Khan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Haseeb+Khan)](https://git.io/typing-svg)
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile)
 [![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/Haseeb__Khan)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram)](https://www.instagram.com/haseebe_khan)
@@ -45,4 +45,3 @@ Created a comprehensive system for hotel bookings, featuring: **termios.h**, **u
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haseebkhan)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:haseebkhanbettani@gmail.com)
 [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://haseebkhan.wordpress.com)
-
