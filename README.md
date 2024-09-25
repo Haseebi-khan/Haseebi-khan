@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Haseeb+Khan)](https://git.io/typing-svg)
 
+## 👨‍🎓 About Me
+Hello! I am a passionate Computer Science student at the [University of Management and Technology (UMT)](https://www.umt.edu.pk). I love enhancing my skills through exciting projects and real-world problem-solving.
+
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile)
 [![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/Haseeb__Khan)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram)](https://www.instagram.com/haseebe_khan)
 [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://wordpress.com/home/haseebullahkhan6.wordpress.com)
-
-## 👨‍🎓 About Me
-Hello! I am a passionate Computer Science student at the [University of Management and Technology (UMT)](https://www.umt.edu.pk). I love enhancing my skills through exciting projects and real-world problem-solving.
 
 ## 📚 Skills & Expertise
 | 💻 Skill                          | 🔥 Proficiency Level           |
