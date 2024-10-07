@@ -15,7 +15,6 @@ Hello! I am a passionate Computer Science student at the [University of Manageme
 | Object-Oriented Programming (OOP)  | 🌟🌟🌟🌟🌟                        |
 | Data Structures and Algorithms     | 🌟🌟🌟🌟🌟                        |
 | Problem Solving                    | 🌟🌟🌟🌟🌟                        |
-| Software Development               | 🌟🌟🌟                           |
 
 ## 📂 Projects
 
