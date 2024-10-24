@@ -1,5 +1,21 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Haseeb+Khan)](https://git.io/typing-svg)
 
+Hello everyone,
+
+I hope you're doing well! I'm thrilled to announce that I'm currently on the path to becoming a Microsoft Learn Student Ambassador. I truly appreciate your support as I progress through this journey!
+
+Thank you for taking the time to visit my profile, and for your continued encouragement!
+
+## Useful Microsoft Resources:
+- [Microsoft Learn](https://learn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
+- [Microsoft Azure](https://azure.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
+- [Microsoft Developer](https://developer.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
+- [Microsoft Community Hub](https://techcommunity.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
+- [Microsoft for Startups](https://www.microsoft.com/startups/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
+- [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
+- [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
+- [Microsoft Cloud Blog](https://www.microsoft.com/microsoft-cloud/blog/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
+
 ## 👨‍🎓 About Me
 Hello! I am a passionate Computer Science student at the [University of Management and Technology (UMT)](https://www.umt.edu.pk). I love enhancing my skills through exciting projects and real-world problem-solving.
 
@@ -47,20 +63,4 @@ Created a comprehensive system for hotel bookings, featuring: **termios.h**, **u
 [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://haseebkhan.wordpress.com)
 
 
-# Welcome to My GitHub Profile!
 
-Hello everyone,
-
-I hope you're doing well! I'm thrilled to announce that I'm currently on the path to becoming a Microsoft Learn Student Ambassador. I truly appreciate your support as I progress through this journey!
-
-Thank you for taking the time to visit my profile, and for your continued encouragement!
-
-## Useful Microsoft Resources:
-- [Microsoft Learn](https://learn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
-- [Microsoft Azure](https://azure.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
-- [Microsoft Developer](https://developer.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
-- [Microsoft Community Hub](https://techcommunity.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
-- [Microsoft for Startups](https://www.microsoft.com/startups/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
-- [Microsoft DevBlogs](https://devblogs.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
-- [Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
-- [Microsoft Cloud Blog](https://www.microsoft.com/microsoft-cloud/blog/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
