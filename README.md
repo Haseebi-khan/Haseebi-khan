@@ -25,7 +25,7 @@ Hello! I am a passionate Computer Science student at the [University of Manageme
 ## 📚 Skills & Expertise
 | 💻 Skill                          | 🔥 Proficiency Level           |
 |------------------------------------|--------------------------------|
-| Programming Languages              | 🌟🌟🌟🌟🌟                        |
+| Programming Languages (Python, C++)| 🌟🌟🌟🌟🌟                        |
 | Object-Oriented Programming (OOP)  | 🌟🌟🌟🌟🌟                        |
 | Data Structures and Algorithms     | 🌟🌟🌟🌟🌟                        |
 | Problem Solving                    | 🌟🌟🌟🌟🌟                        |
