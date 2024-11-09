@@ -17,10 +17,9 @@ Thank you for taking the time to visit my profile, and for your continued encour
 ## 👨‍🎓 About Me
 Hello! I am a passionate Computer Science student at the [University of Management and Technology (UMT)](https://www.umt.edu.pk). I love enhancing my skills through exciting projects and real-world problem-solving.
 
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile)
-[![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/Haseeb__Khan)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/haseebkhan](https://www.linkedin.com/in/haseeb-khan-347aa22b8?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BHtHzUYn1Q0C%2BOFNITlg9sQ%3D%3D))
 [![Instagram Badge](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram)](https://www.instagram.com/haseebe_khan)
-[![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://wordpress.com/home/haseebullahkhan6.wordpress.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:haseebkhanbettani@gmail.com)
 
 ## 📚 Skills & Expertise
 | 💻 Skill                          | 🔥 Proficiency Level           |
@@ -56,8 +55,8 @@ Created a comprehensive system for hotel bookings, featuring: **termios.h**, **u
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haseebkhan)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:haseebkhanbettani@gmail.com)
+[![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/Haseeb__Khan)
+[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile)
 [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://haseebkhan.wordpress.com)
 
 
