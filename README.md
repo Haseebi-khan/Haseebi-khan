@@ -48,9 +48,7 @@ Created a comprehensive system for hotel bookings, featuring: **termios.h**, **u
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 ## 📊 Statistics & Progress
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haseebi-khan&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&layout=compact&theme=radical)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseebi-khan&theme=radical" alt="GitHub Streak" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&layout=compact&theme=radical" alt="Top Languages" width="48%"> </p>
 
 ## 📫 Get in Touch
 [![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/Haseeb__Khan)
