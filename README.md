@@ -2,7 +2,7 @@
 
 I hope you're doing well! I'm thrilled to announce that I'm currently on the path to becoming a Microsoft Learn Student Ambassador. Learn about Microsoft below:
 
-## Learn Microsoft:
+## Microsoft Learn:
 - [Microsoft Learn](https://learn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
 - [Microsoft Azure](https://azure.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
 - [Microsoft Developer](https://developer.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
