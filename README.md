@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Haseeb+Khan)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=12&pause=1000&color=F70000&width=435&lines=I+hope+you're+doing+well!+I+m+thrilled+to+announce+that+I'm+currently+on+the+path+to+becoming+a+Microsoft+Learn+Student+Ambassador.+Learn+about+Microsoft+below%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=12&pause=1000&color=F70000&width=435&lines=I+hope+you're+doing+well!+I+m+thrilled+to+announce+that+I+m+currently+on+the+path+to+becoming+a+Microsoft+Learn+Student+Ambassador+.+Learn+about+Microsoft+below%3A)](https://git.io/typing-svg)
 
 ## Microsoft Learn:
 - [Microsoft Learn](https://learn.microsoft.com/?WT.mc_id=academic&wt.mc_id=studentamb_382255)
