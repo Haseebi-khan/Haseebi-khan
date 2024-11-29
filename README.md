@@ -34,7 +34,7 @@ Hello! I am a passionate Computer Science student at the [University of Manageme
 ### Contact Book Management System
 Developed a robust application using C++ that allows users to manage contact information. Key libraries used include: **window.h**, **iomanip**, **fstream**.
 
-### Hotel Management System
+### Management System
 Created a comprehensive system for hotel bookings, featuring: **termios.h**, **unistd.h**, **stdio.h**, **fstream**, **iomanip**, **ctime**, and **cstdlib**.
 
 ## 📊 Statistics & Progress
