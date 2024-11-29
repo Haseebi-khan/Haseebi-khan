@@ -31,7 +31,7 @@ Hello! I am a passionate Computer Science student at the [University of Manageme
 
 ## 📂 Projects
 
-### Contact Book Management System
+### Contact Book Application
 Developed a robust application using C++ that allows users to manage contact information. Key libraries used include: **window.h**, **iomanip**, **fstream**.
 
 ### Management System
