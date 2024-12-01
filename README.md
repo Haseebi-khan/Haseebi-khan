@@ -48,5 +48,5 @@ Created a comprehensive system for hotel bookings, featuring: **termios.h**, **u
 [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://haseebkhan.wordpress.com)
 
 
-![Profile Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Haseebi-khan&title=Profile%20Visitors)
+![Profile Views](https://komarev.com/ghpvc/?username=Haseebi-khan&color=blue)
 
