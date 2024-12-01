@@ -39,7 +39,7 @@ Created a comprehensive system for hotel bookings, featuring: **termios.h**, **u
 
 ## 📊 Statistics & Progress
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseebi-khan&theme=radical" alt="GitHub Streak" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="40%">
-![Profile Views](https://komarev.com/ghpvc/?username=Haseebi-khan&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Haseebi-khan&color=red)
 
 
 ## 📫 Get in Touch
