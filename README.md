@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Haseeb+Khan)](https://git.io/typing-svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Haseebi-khan&color=red)
+
 I hope you're doing well! I'm thrilled to announce that I'm currently on the path to becoming a Microsoft Learn Student Ambassador. Learn about Microsoft below:
 
 ## Microsoft Learn:
@@ -39,7 +41,7 @@ Created a comprehensive system for hotel bookings, featuring: **termios.h**, **u
 
 ## 📊 Statistics & Progress
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseebi-khan&theme=radical" alt="GitHub Streak" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="40%">
-![Profile Views](https://komarev.com/ghpvc/?username=Haseebi-khan&color=red)
+
 
 
 ## 📫 Get in Touch
