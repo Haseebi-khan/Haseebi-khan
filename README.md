@@ -38,7 +38,8 @@ Developed a robust application using C++ that allows users to manage contact inf
 Created a comprehensive system for hotel bookings, featuring: **termios.h**, **unistd.h**, **stdio.h**, **fstream**, **iomanip**, **ctime**, and **cstdlib**.
 
 ## 📊 Statistics & Progress
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseebi-khan&theme=radical" alt="GitHub Streak" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&layout=compact&theme=radical" alt="Top Languages" width="40%"> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haseebi-khan&theme=radical" alt="GitHub Streak" width="48%"> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" width="40%">
+
 
 ## 📫 Get in Touch
 [![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/Haseeb__Khan)
