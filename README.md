@@ -49,5 +49,4 @@ Created a comprehensive system for hotel bookings, featuring: **termios.h**, **u
 
 
 ![Profile Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Haseebi-khan&title=Profile%20Visitors)
-![Haseebi-khan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical)
 
