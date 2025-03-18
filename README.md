@@ -38,5 +38,7 @@ Hello! I am a passionate Computer Science student at the [University of Manageme
 
 ## 📫 Get in Touch
 [![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/Haseeb__Khan)
+
 [![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile)
+
 [![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://haseebkhan.wordpress.com)
