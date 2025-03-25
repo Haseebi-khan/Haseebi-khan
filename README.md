@@ -46,12 +46,10 @@ Hello! I am a passionate Computer Science student at the [University of Manageme
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
   </a>
   <a href="https://en.wikipedia.org/wiki/Machine_code" target="_blank" rel="noreferrer">
-  <img 
-    src="https://cdn-icons-png.flaticon.com/512/8086/8086471.png" 
+    <img src="https://cdn0.iconfinder.com/data/icons/future-technology-51/504/machine_learning-deep_learning-natural_language_processing-computer_vision-image_recognition-1024.png" 
     alt="Machine Language" 
     width="40" 
-    height="40"
-  />
+    height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
