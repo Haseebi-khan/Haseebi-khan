@@ -10,13 +10,6 @@ I am a passionate Computer Science student at the [University of Management and 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:haseebkhanbettani@gmail.com)
 
 ## 📚 Skills & Expertise
-| 💻 Skill                          | 🔥 Proficiency Level           |
-|------------------------------------|--------------------------------|
-| Programming Languages (Python, C++)| 🌟🌟🌟🌟🌟                        |
-| Object-Oriented Programming (OOP)  | 🌟🌟🌟🌟🌟                        |
-| Data Structures and Algorithms     | 🌟🌟🌟🌟🌟                        |
-| Problem Solving                    | 🌟🌟🌟🌟🌟                        |
-
 <p align="left"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5" alt="HTML"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" alt="CSS">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> </p>
 
 <h3 align="left">Languages</h3>
