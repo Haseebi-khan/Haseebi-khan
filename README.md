@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Haseeb+Khan)](https://git.io/typing-svg)
 
 ## 👨‍🎓 About Me
-I am a passionate Computer Science student at the [University of Management and Technology (UMT)](https://www.umt.edu.pk). I love enhancing my skills through exciting projects and real-world problem-solving.
+I am a passionate Computer Science student. I love machine's and enhancing my skills through exciting projects and real-world problem-solving.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haseeb-khan-347aa22b8/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram)](https://www.instagram.com/haseebe_khan)
