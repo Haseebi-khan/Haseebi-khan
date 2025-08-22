@@ -29,9 +29,6 @@ I am a passionate Computer Science student. I love machine's and enhancing my sk
   <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
-  </a>
   <a target="_blank" rel="noreferrer">
     <img src="https://cdn0.iconfinder.com/data/icons/future-technology-51/504/machine_learning-deep_learning-natural_language_processing-computer_vision-image_recognition-1024.png" 
     alt="Machine Language" 
@@ -49,6 +46,9 @@ I am a passionate Computer Science student. I love machine's and enhancing my sk
   </a>
   <a target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="40"/> 
+  </a>
+    <a target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
