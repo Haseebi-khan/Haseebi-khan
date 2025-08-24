@@ -66,6 +66,6 @@ I am a passionate Computer Science student. I love machine's and enhancing my sk
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&langs_count=20&layout=compact&theme=radical" alt="Most Used Languages" width="60%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&langs_count=20&layout=compact&theme=radical" alt="Most Used Languages" width="48%">
 </p>
 
