@@ -17,6 +17,12 @@ I am a passionate Computer Science student. I love machine's and enhancing my sk
 
 <h3 align="left">Languages</h3>
 <p align="left">
+    <a target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <a target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
+  </a>
   <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a>
@@ -24,16 +30,13 @@ I am a passionate Computer Science student. I love machine's and enhancing my sk
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
+  </a>
+  <a target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://cdn0.iconfinder.com/data/icons/future-technology-51/504/machine_learning-deep_learning-natural_language_processing-computer_vision-image_recognition-1024.png" 
-    alt="Machine Language" 
-    width="40" 
-    height="40"/>
   </a>
   <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
@@ -48,20 +51,18 @@ I am a passionate Computer Science student. I love machine's and enhancing my sk
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="40"/> 
   </a>
   <a target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
+         alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a target="_blank" rel="noreferrer">
+    <img src="https://cdn0.iconfinder.com/data/icons/future-technology-51/504/machine_learning-deep_learning-natural_language_processing-computer_vision-image_recognition-1024.png" 
+    alt="Machine Language" 
+    width="40" 
+    height="40"/>
+  </a>
+  <a target="_blank" rel="noreferrer">
     <img src="https://cdn.brandfetch.io/idcuOol42D/w/333/h/333/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667907497486" 
          alt="deeplearning.ai" width="40" height="40"/>
-  </a>    
-    <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
 </p>
 
