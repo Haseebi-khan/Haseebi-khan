@@ -47,6 +47,10 @@ I am a passionate Computer Science student. I love machine's and enhancing my sk
   <a target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="40"/> 
   </a>
+  <a target="_blank" rel="noreferrer" href="https://www.google.com/imgres?q=deeplearning%20png">
+    <img src="https://cdn.brandfetch.io/idcuOol42D/w/333/h/333/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667907497486" 
+         alt="deeplearning.ai" width="40" height="40"/>
+  </a>    
     <a target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
   </a>
