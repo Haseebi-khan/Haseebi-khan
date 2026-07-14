@@ -69,7 +69,7 @@ I am a passionate Computer Science student. I love machine's and enhancing my sk
 ## 📊 Statistics & Progress
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> 
-  <img src="https://streak-stats.demolab.com/?user=Haseebi-khan&theme=radical" alt="GitHub Streak" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=Haseebi-khan&theme=radical" alt="GitHub Streak" width="50%">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&langs_count=20&layout=compact&theme=radical" alt="Most Used Languages" width="50%">
 </p>
