@@ -1,76 +1,86 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Haseebi-khan&color=red)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=+Hi+There!%F0%9F%91%8B+I'm+Haseeb+Khan)](https://git.io/typing-svg)
+<div align="center">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&duration=3500&pause=1000&center=true&vCenter=true&width=435&lines=+Haseeb+Khan)](https://git.io/typing-svg)
 
+### I build systems that see, decide, and fly.
 
-I am a passionate Computer Science student. I love machine's and enhancing my skills through exciting projects and real-world problem-solving.
+**Computer Vision · Deep Learning · Edge AI · Autonomous Systems**
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/haseeb-khan-347aa22b8/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-D32F2F?style=for-the-badge&logo=instagram)](https://www.instagram.com/haseebe_khan)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:haseebkhanbettani@gmail.com)
-[![FreeCodeCamp Badge](https://img.shields.io/badge/FreeCodeCamp-00BFFF?style=for-the-badge&logo=freecodecamp)](https://www.freecodecamp.org/Haseeb__Khan)
-[![Stack Overflow Badge](https://img.shields.io/badge/Stack_Overflow-FFA500?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/23202579/haseeb-khan?tab=profile)
-[![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)](https://haseebkhan.wordpress.com)
+📍 Lahore, Pakistan &nbsp;·&nbsp; 🎓 BS Computer Science, University of Management and Technology
 
-## 📚 Skills & Expertise
-<p align="left"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5" alt="HTML"> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3" alt="CSS">  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" alt="Python"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"> </p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/haseeb-khan-347aa22b8)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/haseebekhan)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/haseebe_khan)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-9098-9231)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:haseebkhanbettani@gmail.com)
 
-<h3 align="left">Languages</h3>
-<p align="left">
-    <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="sql" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" alt="cmake" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a>
-<a target="_blank" rel="noreferrer"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
-</a>
-  <a target="_blank" rel="noreferrer"> 
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="100" height="40"/> 
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
-         alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://cdn0.iconfinder.com/data/icons/future-technology-51/504/machine_learning-deep_learning-natural_language_processing-computer_vision-image_recognition-1024.png" 
-    alt="Machine Language" 
-    width="40" 
-    height="40"/>
-  </a>
-  <a target="_blank" rel="noreferrer">
-    <img src="https://cdn.brandfetch.io/idcuOol42D/w/333/h/333/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1667907497486" 
-         alt="deeplearning.ai" width="40" height="40"/>
-  </a>
+</div>
+
+---
+
+### What I actually build
+
+Most student AI portfolios stop at a notebook with a validation curve. Mine doesn't — every project below either exports to an edge target, runs in real time, or gets scored against a real leaderboard.
+
+<!-- - **AgriViT-Plus** — a CNN–ViT hybrid for precision agriculture. SE-ResNet blocks feed a cross-attention fusion layer, trained with focal loss and label smoothing, exported through ONNX for edge inference. Two research spin-offs in progress: **AgroSSL** (multi-modal sensor + NDVI/NDRE fusion) and **AgriEdge** (distillation + quantization for Raspberry Pi deployment). -->
+- **Healthcare cost prediction pipeline** — multi-table preprocessing across claims, CPT/DRG/ICD codes, and member demographics, feeding an XGBoost + LightGBM + CatBoost ensemble. **0.94 ROC-AUC** identifying high-cost members from ~45K stratified records.
+- **AI-driven urban traffic optimization** — YOLOv8 detection → Transformer-based flow forecasting → VAE anomaly detection → a custom DQN controller (trained from scratch) closing the loop on signal timing.
+- **Gender-Identifier (YOLOv5)** — real-time classifier on a self-built 2.6K-image dataset, >90% accuracy, served live through a Flask webcam stream.
+
+---
+
+### Right now
+
+- 🧠 Scoping my **Final Year Project** 
+- 📘 Working through Géron's *Hands-On ML* 
+- 🚁 Off-script but deliberate: teaching myself electronics → STM32/FreeRTOS → control theory
+
+---
+
+### Stack
+
+**AI / ML**
+`Deep Learning` `Computer Vision` `Vision Transformers` `YOLOv5 / YOLOv8` `Reinforcement Learning` `Generative AI` `Anomaly Detection`
+
+**Frameworks**
+`PyTorch` `TensorFlow / Keras` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `OpenCV` `Hugging Face` `Optuna`
+
+**Systems**
+`CUDA` `C++` `Python` `FastAPI` `Flask` `Docker` `Linux` `SQL`
+
+**Building toward** (drone-engineering track)
+`STM32` `FreeRTOS` `PID Control` `Sensor Fusion`
+
+---
+
+### Featured repositories
+
+| Repo | What's actually in it | Stack |
+|---|---|---|
+| [**MachineLearning**](https://github.com/Haseebi-khan/MachineLearning) | 244+ commit hands-on ML/DL log — healthcare cost pipeline, residual networks, custom training loops, PCA + GPU-accelerated boosting, clustering, Flask/Streamlit deployment | PyTorch, TensorFlow, Scikit-learn |
+| [**CUDA_Programming**](https://github.com/Haseebi-khan/CUDA_Programming) | Parallel kernels from scratch — vector ops, Euclidean distance, primality testing, memory management, CPU vs. GPU benchmarking | CUDA, C++ |
+| [**Gender-Identifier-YOLOv5**](https://github.com/Haseebi-khan/Gender-Identifier-YOLOv5) | Real-time classifier, >90% accuracy, custom dataset, live webcam inference | YOLOv5, OpenCV, Flask |
+| **AI-Driven Urban Traffic Optimization** | Detection → forecasting → anomaly detection → RL control, end to end | YOLOv8, Transformers, RL, PyTorch |
+| **Healthcare Cost Prediction** | Ensemble pipeline, 0.94 ROC-AUC on high-cost member identification | XGBoost, LightGBM, CatBoost |
+
+---
+
+<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=Haseebi-khan&theme=radical" alt="GitHub Streak" width="48%">
 </p>
-
-## 📊 Statistics & Progress
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Haseebi-khan&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"> 
-  <img src="https://streak-stats.demolab.com/?user=Haseebi-khan&theme=radical" alt="GitHub Streak" width="50%">
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haseebi-khan&langs_count=20&layout=compact&theme=radical" alt="Most Used Languages" width="50%">
 </p>
+</div>
 
+---
+
+<div align="center">
+
+Open to AI/ML role and research collaborations — especially anything that involves making a model run somewhere it wasn't supposed to fit: a GPU cluster, an edge board, or a flight controller.
+
+</div>
