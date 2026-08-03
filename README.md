@@ -56,7 +56,7 @@ Most student AI portfolios stop at a notebook with a validation curve. Mine does
 ---
 
 ### Featured repositories
-
+ 
 | Repo | What's actually in it | Stack |
 |---|---|---|
 | [**MachineLearning**](https://github.com/Haseebi-khan/MachineLearning) | 244+ commit hands-on ML/DL log — healthcare cost pipeline, residual networks, custom training loops, PCA + GPU-accelerated boosting, clustering, Flask/Streamlit deployment | PyTorch, TensorFlow, Scikit-learn |
@@ -64,6 +64,9 @@ Most student AI portfolios stop at a notebook with a validation curve. Mine does
 | [**Gender-Identifier-YOLOv5**](https://github.com/Haseebi-khan/Gender-Identifier-YOLOv5) | Real-time classifier, >90% accuracy, custom dataset, live webcam inference | YOLOv5, OpenCV, Flask |
 | **AI-Driven Urban Traffic Optimization** | Detection → forecasting → anomaly detection → RL control, end to end | YOLOv8, Transformers, RL, PyTorch |
 | **Healthcare Cost Prediction** | Ensemble pipeline, 0.94 ROC-AUC on high-cost member identification | XGBoost, LightGBM, CatBoost |
+| [**NumJig**](https://github.com/Haseebi-khan/NumJig) | DSA practice repo (147 commits) — includes a sliding-tile puzzle game built on stacks, linked lists, graphs, and hashing to exercise the structures directly rather than just study them | C++, DSA |
+| [**OOP-in-C-Plus-Plus**](https://github.com/Haseebi-khan/OOP-in-C-Plus-Plus) | A hotel management system covering classes/objects, multi-level inheritance, static & dynamic polymorphism, encapsulation, abstraction, and friend functions — file handling via `fstream`, console animation via `windows.h` | C++, OOP |
+| [**Programming_Fundamentals_in_C_Plus**](https://github.com/Haseebi-khan/Programming_Fundamentals_in_C_Plus) | Console-based contact book app from a 14-week Programming Fundamentals course — CRUD on contact records using pointers, dynamic memory, and `fstream` persistence | C++ |
 
 ---
 
